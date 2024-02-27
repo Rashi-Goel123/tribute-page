@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+    background-color: #5C2018;
+}
+
+   h1{
+    color:#eee;
+    font-family: 'crimson text',serif;
+     display:flex;
+    justify-content: center; 
+    font-size: 5vw;
+   
+   }
+
+h2{
+    color: #40679E;
+    font-family:italic;
+     display:flex;
+    justify-content: center; 
+    font-size: 3vw;
+  
+}
+hr{
+    margin-left:4vw;
+    margin-right:4vw;
+}
+.modi2{
+    margin-left:350px;
+    font-size: 21px;
+    font-weight: 200;
+    color:#eee;
+    font-family:italic;
+}
+p1{
+    color:#eee;
+    font-size:35px;
+}
+p{
+    font-size: 25px;
+    color:#eee;
+    margin-left:10px;
+}
+.tributeimg,.image4,.image1,.image3{
+    height:30vh; 
+}
+.image5{
+    width:250px;
+    height:190px;
+}
+.modi4{
+    background-color: #5C2018;
+    display:flex;
+}
+.modi5{
+    font-size: 2vw;
+    font-family:'crimson text',serif ;
+    color: #eee;
+
+}
+.text{
+    font-size:6vw ;
+    font-family: italic;
+    color:burlywood;
+}
+.modi5{
+     margin-left:3vw; 
+    height:50vw;
+    
+}
+.facebook{
+    width:15vw;
+}
+.wikipedia{
+    width:16vw;
+    border-radius: 50%;
+}
+.instagram{
+    height:35vh;
+    border-radius: 50%;
+}
+.homeicon{
+    height:15vw;
+    border-radius:50% ;
+}
+.modi7,.modi9{
+    margin-top: 5vw;
+    width:100vw;
+    background-color: #eee;
+    color:#5C2018;
+    border-radius: 8%;
+  padding-left: 1vw;
+}
+.primeminister{
+    width:90vw;
+    border-radius: 20%;
+    margin-left: 3vw;
+}
+.rastrya{
+font-size: 2vw;
+color:antiquewhite;
+margin-left: 15vw;;
+
+}
+.heading,.profile{
+    color: #eee;
+    font-size: 3vw;
+
+}
+
+.intro{
+    font-size: 120;
+    color: #eee;
+    font-family:italic ;
+    font-weight: 200;
+}
+.tributeimg,.image4,.image1,.image3{
+    height:30vh; 
+}
+.modi6:hover{
+    display:flex;
+    animation: spinAnimate 2s ease-in 0s 2c normal;
+}
+.main1,.main2,.main3,.main4{
+    font-size: 120;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:darkturquoise;
+    line-height: 1vw;
+}
+@keyframes spinAnimate{
+    from{ 
+     transform: rotate(0deg);
+    }
+    to{
+       transform:rotate(360deg);
+    }
+}
+
+
+
+
+
+
